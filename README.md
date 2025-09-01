@@ -1,2 +1,1 @@
-# livroPOO-unicesumar
-Exemplos do livro de POO
+Exemplos do livro de Programação Orientada a Objeto
